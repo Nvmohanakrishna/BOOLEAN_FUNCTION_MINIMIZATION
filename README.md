@@ -86,7 +86,8 @@ RegisterNumber:24000587
 
 (ii)F2
 
-![experment2f1rtl](https://github.com/user-attachments/assets/0273c88e-6a25-4f24-98ae-16de4fbc5dbc)
+![min_fun2rtl](https://github.com/user-attachments/assets/707fd939-87eb-4861-b5b8-eab6565db0f2)
+
 
 **Timing Diagram**
 
@@ -96,8 +97,7 @@ RegisterNumber:24000587
 
 
 (ii)F2
-
-![Screenshot (12)](https://github.com/user-attachments/assets/9b7eadfb-ecf4-4b4c-8d61-c2b854856226)
+![Screenshot (13)](https://github.com/user-attachments/assets/96394d02-7430-429f-871a-8b6c9e8d2fb2)
 
 
 **Result:**
